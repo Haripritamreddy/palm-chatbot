@@ -1,7 +1,7 @@
 pypdf
 streamlit
 llama-index
-nltk
+nltk==3.6.2
 llama-index-llms-palm
 google-generativeai
 llama-index-embeddings-google
