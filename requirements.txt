@@ -1,7 +1,7 @@
-pypdf
-streamlit
-llama-index
+pypdf==4.0.1
+streamlit==1.31.1
+llama-index==0.10.5
 nltk==3.6.2
-llama-index-llms-palm
-google-generativeai
-llama-index-embeddings-google
+llama-index-llms-palm==0.1.1
+google-generativeai==0.3.2
+llama-index-embeddings-google==0.1.1
