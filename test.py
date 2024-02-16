@@ -1,5 +1,5 @@
 import nltk
-nltk.download(‘stopwords’)
+nltk.download('stopwords')
 import streamlit as st
 from llama_index.core import VectorStoreIndex, ServiceContext, Document
 from llama_index.embeddings.google import GooglePaLMEmbedding
